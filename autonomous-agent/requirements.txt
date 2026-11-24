@@ -1,0 +1,7 @@
+psutil>=6.0
+
+# Core agent uses the Python standard library (Python 3.10+, 3.12+ recommended).
+# Optional Windows desktop support:
+#   python -m pip install pywinauto pyautogui pillow pytesseract
+#   (install the Tesseract executable separately for OCR)
+#   playwright                    # Phase 3: browser automation
